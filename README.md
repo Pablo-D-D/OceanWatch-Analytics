@@ -154,18 +154,20 @@ Estos resultados corresponden a pruebas reportadas durante el desarrollo, no a u
 Estructura propuesta: colocar los README individuales junto a sus respectivos notebooks y scripts, manteniendo las carpetas `notebooks/` y `pipeline/` del paquete de documentación.
 
 
+
 ### Notebooks
 
-- [Notebook 1 — Ingesta de datos](notebooks/README_Notebook1_IngestaDatos.md)
-- [Notebook 2 — Exploración, perfilamiento y preguntas de negocio](notebooks/README_Notebook2_ExplorPerfil_PregNeg.md)
-- [Notebook 3 — Almacenamiento y optimización](notebooks/README_Notebook3_AlmacenamOptimizacion.md)
-- [Notebook 4 — Límites marítimos y terrestres de Estados Unidos](notebooks/README_Notebook4_Capa_limitesMarítimos_US.md)
-- [Notebook 5 — Selección de puertos de Estados Unidos](notebooks/README_Notebook5_OrganizacionPuntos_puertos_US.md)
-- [Notebook 6 — Administración de Unity Catalog](notebooks/README_Notebook6_Admin_UnityCatalog.md)
-- [Notebook 7 — Descarga AIS para Landing](notebooks/README_Notebook7_Descarga_AIS.md)
-- [Notebook 10 — Generación de datos sintéticos](notebooks/README_Notebook10_GeneracionDatos_Sinteticos.md)
-- [Notebook 13 — Desarrollo y validación de inferencia ML](notebooks/README_Notebook13_ML_Inferencia.md)
-- [Notebook 14 — Inferencia ML en producción](notebooks/README_Notebook14_ML_Inferencia_Prod.md)
+- [Notebook 1 – Ingesta de datos](Notebooks/README_OceanWatch/README_Notebook1_IngestaDatos.md)
+- [Notebook 2 – Exploración, perfilamiento y preguntas de negocio](Notebooks/README_OceanWatch/README_Notebook2_ExplorPerfil_PregNeg.md)
+- [Notebook 3 – Almacenamiento y optimización](Notebooks/README_OceanWatch/README_Notebook3_AlmacenamOptimizacion.md)
+- [Notebook 4 – Límites marítimos y terrestres de Estados Unidos](Notebooks/README_OceanWatch/README_Notebook4_Capa_limitesMarítimos_US.md)
+- [Notebook 5 – Selección de puertos de Estados Unidos](Notebooks/README_OceanWatch/README_Notebook5_OrganizacionPuntos_puertos_US.md)
+- [Notebook 6 – Administración de Unity Catalog](Notebooks/README_OceanWatch/README_Notebook6_Admin_UnityCatalog.md)
+- [Notebook 7 – Descarga AIS para Landing](Notebooks/README_OceanWatch/README_Notebook7_Descarga_AIS.md)
+- [Notebook 10 – Generación de datos sintéticos](Notebooks/README_OceanWatch/README_Notebook10_GeneracionDatos_Sinteticos.md)
+- [Notebook 13 – Desarrollo y validación de inferencia ML](Notebooks/README_OceanWatch/README_Notebook13_ML_Inferencia.md)
+- [Notebook 14 – Inferencia ML en producción](Notebooks/README_OceanWatch/README_Notebook14_ML_Inferencia_Prod.md)
+
 
 ### Pipeline ETL
 
