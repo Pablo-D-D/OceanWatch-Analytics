@@ -171,11 +171,12 @@ Estructura propuesta: colocar los README individuales junto a sus respectivos no
 
 ### Pipeline ETL
 
-- [OceanWatch Analytics — Pipeline ETL](pipeline/README.md)
-- [01 — Ingesta Bronze AIS](pipeline/README_01_Ingesta_Bronze_AIS.md)
-- [02 — Validación y transformación Silver](pipeline/README_02_Bronze_Silver_AIS.md)
-- [03 — Gold Analytics](pipeline/README_03_Gold_Analytics.md)
-- [04 — Gold ML Features](pipeline/README_04_Gold_ML_Features.md)
+- [Documentación general del pipeline](Pipeline/README/README_General_Pipeline.md)
+- [01 – Ingesta Bronze AIS](Pipeline/README/README_01_Ingesta_Bronze_AIS.md)
+- [02 – Transformación Bronze a Silver](Pipeline/README/README_02_Bronze_Silver_AIS.md)
+- [03 – Gold Analytics](Pipeline/README/README_03_Gold_Analytics.md)
+- [04 – Gold ML Features](Pipeline/README/README_04_Gold_ML_Features.md)
+
 
 ## 11. Puesta en funcionamiento
 
